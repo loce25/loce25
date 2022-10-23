@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loce25
-- 👀 I’m interested in web development, app design, photography, music (jazz especially), and cooking
-- 🌱 I’m currently learning FLutter, C, CSS and html, 
-- 💞️ I’m looking to collaborate on web or app design projects
+- 👀 I’m interested in data science, software development, photography, music (jazz especially), and cooking
+- 🌱 I’m currently learning FLutter and Carbon
+- 💞️ I’m looking to collaborate on anything and everything that interests me!
 - 📫 How to reach me:
   email: chrislocsgo@gmail.com
 
